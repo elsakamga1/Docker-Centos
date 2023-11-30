@@ -18,3 +18,5 @@ sudo yum install docker-ce -y
 # Start Docker
 sudo systemctl start docker
 sudo systemctl enable docker
+
+echo "Conclude Docker install"
